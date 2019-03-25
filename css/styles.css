@@ -1,1 +1,9 @@
-
+.references{
+  text-decoration: none;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+.image{
+  align-self: center;
+}
