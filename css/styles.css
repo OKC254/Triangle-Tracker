@@ -23,3 +23,9 @@ h1{
   font-style: italic;
   text-align: center;
 }
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
