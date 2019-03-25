@@ -1,9 +1,6 @@
-.references{
+a{
   text-decoration: none;
-  color: white;
-  text-align: center;
+  padding: 50px;
+  color: #FFFFFF;
   font-size: 30px;
-}
-.image{
-  align-self: center;
 }
