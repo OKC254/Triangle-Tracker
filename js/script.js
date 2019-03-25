@@ -1,6 +1,7 @@
-var length1 = [parseFloat(prompt('Input length1'))]
-  var length2 = [parseFloat(prompt('Input length2'))]
-  var length3 = [parseFloat(prompt('Input length3'))]
+function mefun(){
+var length1 = [parseFloat(document.getElementById("length1").value)]
+var length2 = [parseFloat(document.getElementById("length2").value)]
+var length3 = [parseFloat(document.getElementById("length3").value)]
 
  var ab = length1.concat(length2);
 
@@ -30,3 +31,4 @@ else if(a === b && b === c && a > 0 && b > 0 && c > 0){
   console.log('Scalene Triangle')
   alert('Scalene Triangle')
 }else { alert ("Invalid measurements. Kindly re-evaluate your figures.")};
+}
