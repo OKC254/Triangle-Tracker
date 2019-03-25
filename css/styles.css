@@ -9,7 +9,11 @@ a{
 }
 p{
   color: #FFFFFF;
+  font-size: 20px;
+  font-family: sans-serif;
 }
 .list{
   color: #1EA800;
+  font-size: 25px;
+  font-style: italic;
 }
